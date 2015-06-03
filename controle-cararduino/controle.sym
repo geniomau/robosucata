@@ -1,0 +1,59 @@
+004-005 @READ_PROGRAM_MEMORY8.P1
+015     CCP_1_LOW
+015-016 CCP_1
+016     CCP_1_HIGH
+01F.6   C1OUT
+01F.7   C2OUT
+020     @INTERRUPT_AREA
+021     @INTERRUPT_AREA
+022     @INTERRUPT_AREA
+023     @INTERRUPT_AREA
+024     @INTERRUPT_AREA
+025     @INTERRUPT_AREA
+026     @INTERRUPT_AREA
+027     @INTERRUPT_AREA
+028     @INTERRUPT_AREA
+029     direcao
+02A     @PUTCHAR_1_.P1
+077     @SCRATCH
+078     @SCRATCH
+078     _RETURN_
+079     @SCRATCH
+07A     @SCRATCH
+07B     @SCRATCH
+10D-10E @READ_PROGRAM_MEMORY8.P1
+
+ROM Allocation:
+0033  @PUTCHAR_1_
+0055  RB_isr
+0083  MAIN
+0083  @cinit
+
+Project Directory:
+    C:\Users\r5527821\Dropbox\pic\projpic\controle-cararduino\
+
+Project Files:
+    controle.c
+    controle.h
+    ..\..\..\..\..\..\Program Files\PICC\Devices\16F628A.h
+
+Units:
+    C:\Users\r5527821\Dropbox\pic\projpic\controle-cararduino\controle.c (main)
+
+Compiler Settings:
+    Processor:      PIC16F628A
+    Pointer Size:   16
+    Opt Level:      9
+    Short,Int,Long: UNSIGNED: 1,8,16
+    Float,Double:   32,32
+
+Output Files:
+    Errors:      controle.err
+    Ext Symbols: controle.esym
+    INHX8:       controle.hex
+    Symbols:     controle.sym
+    List:        controle.lst
+    Debug/COFF:  controle.cof
+    Project:     controle.PJT
+    Call Tree:   controle.tre
+    Statistics:  controle.sta

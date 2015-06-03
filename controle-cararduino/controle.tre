@@ -1,0 +1,9 @@
+юдcontrole
+   цдMAIN  0/45  Ram=0
+   Ё  юд??0??
+   юдRB_isr  0/46  Ram=0
+      цд@PUTCHAR_1_  0/34  Ram=1
+      цд@PUTCHAR_1_  0/34  Ram=1
+      цд@PUTCHAR_1_  0/34  Ram=1
+      цд@PUTCHAR_1_  0/34  Ram=1
+      юд@PUTCHAR_1_  0/34  Ram=1

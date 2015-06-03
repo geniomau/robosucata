@@ -1,0 +1,46 @@
+
+ROM used: 176 (9%)
+          176 (9%) including unused fragments
+
+          1 Average locations per line
+          8 Average locations per statement
+
+RAM used: 16 (7%) at main() level
+          17 (8%) worst case
+
+Stack used: 2 worst case (out of 6 total available)
+
+Lines Stmts  %   Files
+----- ----- ---  -----
+   39    21 100  controle.c
+   15     0   0  controle.h
+  207     0   0  ..\..\..\..\..\..\Program Files\PICC\Devices\16F628A.h
+----- -----
+  261    21 Total
+
+Page ROM  %  RAM   Vol Diff  Functions:
+---- --- --- ---   --- ----  ----------
+0     34  19   1   200  2.1  @PUTCHAR_1_
+0     46  26   0   288  3.1  RB_isr
+0     45  26   0   212  2.7  MAIN
+
+Program metrics:
+    Functions               3
+    Statements              21
+    Comments                66
+    Volume (V)              925
+    Difficilty (D)          7.9
+    Effort to implement (E) 7349
+    Time to implement (T)   7 minutes
+    Est Delivered Bugs (B)  0
+    Cyclomatic Complexity   9
+    Maintainability (MI)    151
+
+ Segment     Used  Free
+-----------  ----  ----
+00000-00003     4  0  
+00004-00032    47  0  
+00033-007FF   125  1872  
+
+
+

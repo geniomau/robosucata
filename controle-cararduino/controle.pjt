@@ -1,0 +1,25 @@
+[PROJECT]
+Target=C:\Users\r5527821\Dropbox\pic\projpic\controle-cararduino\controle.hex
+Development_Mode=
+Processor_Text=PIC16F628A
+ToolSuite=CCS
+Processor=0x628A
+[C:\Users\r5527821\Dropbox\pic\projpic\controle-cararduino\controle]
+Type=4
+Path=
+FileList=
+BuildTool=
+OptionString=
+AdditionalOptionString=
+[mru-list]
+1=C:\Users\r5527821\Dropbox\pic\projpic\controle-cararduino\controle.c
+[Windows]
+0=0000 %S 0 0 796 451 3 0
+[Units]
+Link=0
+Count=1
+1=C:\Users\r5527821\Dropbox\pic\projpic\controle-cararduino\controle
+[Opened Files]
+1=controle.c
+2=
+3=
