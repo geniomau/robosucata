@@ -1,0 +1,9 @@
+c:\users\r5527821\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Release\SerialControl.exe
+c:\users\r5527821\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Release\SerialControl.pdb
+c:\users\r5527821\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Release\SerialControl.xml
+c:\users\r5527821\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Release\SerialControl.Controlserial.resources
+c:\users\r5527821\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Release\SerialControl.Resources.resources
+c:\users\r5527821\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Release\WindowsApplication2.vbproj.GenerateResource.Cache
+c:\users\r5527821\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Release\SerialControl.exe
+c:\users\r5527821\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Release\SerialControl.xml
+c:\users\r5527821\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Release\SerialControl.pdb
